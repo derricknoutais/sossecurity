@@ -21,12 +21,6 @@
         @include('partials.nav')
         <div class="container">
             <div class="row">
-                <div class="mx-auto text-center">
-                    <h1 class="text" id="header">S.O.S Security</h1>
-                    <small>We take your security seriously</small>
-                </div>
-            </div>
-            <div class="row">
                 <div class="mx-auto">
                     <a href="/branches" class="btn btn-info p-4" id="call-to-action" title="" ><h5>Check out our branches</h5></a>
                 </div>
